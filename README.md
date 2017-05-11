@@ -6,7 +6,7 @@ Duco has been talking about his idea for a pedal for quite some time. Recently, 
 
 ![slack screenshot](images/slack-screenshot.png)
 
-I accepted the challenge.
+Now that's what I call a challenge.
 
 ## hardware
 
@@ -20,7 +20,7 @@ I then stole the sturdiest and longest USB cable I could find in Darko & Matthij
 
 ## assembly
 
-I cut off the (big) USB device side connector. Cutting had to happen anyway, as it needed to pass the small hole in the pedal. 
+I cut off the USB device side connector. Cutting had to happen anyway, as it needed to pass the small hole in the pedal. I used some of the original (short) pedal cable mantle to thicken the usb cable at the pedal side, so that it would fit the strain relief clamp.
 
 I cut the micro-USB connector and some centimeters of wire from my personal phone charging USB cable, and soldered the 4 wires to the sturdy USB cable wires.
 
@@ -42,7 +42,7 @@ Once uploaded, the pedal is just a keyboard. If you press it, it adds 'sudo ' be
 
  I packed it up nice for Duco:
  
- ![packed](images/20170510_215753.jpg)
+ ![packed](images/20170510_215753.jpg) ![wrapped](images/20170510_220217.jpg)
  
  
 

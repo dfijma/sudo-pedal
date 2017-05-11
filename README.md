@@ -44,5 +44,9 @@ Once uploaded, the pedal is just a keyboard. If you press it, it adds 'sudo ' be
  
  ![packed](images/20170510_215753.jpg) ![wrapped](images/20170510_220217.jpg)
  
+ step 4: profit
+ 
+ ![duco](images/20170511_095014.jpg)
+ 
  
 
